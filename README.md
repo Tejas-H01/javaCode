@@ -35,3 +35,13 @@ The purpose of this repository is to practice Java concepts through hands-on cod
 ## ▶️ How to Run Programs
 1. Ensure Java is installed on your system.
 2. Compile the Java file:
+
+---
+
+## 👨‍💻 Author  
+**Tejas Halvankar**  
+📧 Email: tejashalvankar0@gmail.com  
+🌐 GitHub: [Tejas-H01](https://github.com/Tejas-H01)
+
+---
+
