@@ -46,6 +46,6 @@ The program output is shown below:
 ## 👨‍💻 Author
 
 **Tejas Halvankar**  
-📧 Email: `tejashalvankar0@gmail.com`  
+📧 Email: [`tejashalvankar0@gmail.com`]
 🌐 GitHub: [Tejas-H01](https://github.com/Tejas-H01)
 
