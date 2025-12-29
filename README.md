@@ -22,7 +22,7 @@ The repository evolves continuously as new concepts are learned and applied.
 - Data types and variables  
 - Conditional statements and control flow  
 - Loops and iteration constructs  
-- Arrays and strings  
+- Array.Find and strings  
 - Methods and modular programming  
 - Object-Oriented Programming (OOP) concepts  
 - Exception handling  
