@@ -15,7 +15,7 @@ The programs in this folder cover the following array concepts:
 - Calculating the sum of array elements
 - Working with 2D arrays and jagged arrays
 
-Each program focuses on a specific operation to build clear understanding of how arrays work in Java.
+Each program focuses on a specific operation to build a clear understanding of how arrays work in Java.
 
 ---
 
@@ -30,11 +30,10 @@ Each program focuses on a specific operation to build clear understanding of how
 - **Max.java**
   - Finds the maximum value in an integer array containing negative numbers.
   - Uses `Integer.MIN_VALUE` to safely handle all integer values.
-  - Iterates through the array and updates the maximum value.
 
 - **Reverse.java**
   - Reverses a character array.
-  - Prints the array elements in reverse order using a loop.
+  - Prints the array elements in reverse order.
 
 - **Sum.java**
   - Calculates the sum of all elements in an integer array.
@@ -42,21 +41,34 @@ Each program focuses on a specific operation to build clear understanding of how
 
 - **TwoD_Arrays.java**
   - Demonstrates traversal of a two-dimensional array.
-  - Displays elements in matrix format.
-  - Demonstrates a jagged array with uneven row sizes.
-  - Prints jagged array elements using nested loops.
+  - Demonstrates jagged arrays with uneven row sizes.
 
 ---
 
 ## 🖥️ Output
 
-The program outputs are shown below:
+### 🔹 Find Element in Array
+![Find Output](output.png)
 
-- `output`   — Output of `Find.java`
-- `output1`  — Output of `Max.java`
-- `output2`  — Output of `Reverse.java`
-- `output3`  — Output of `Sum.java`
-- `output4`  — Output of `TwoD_Arrays.java`
+---
+
+### 🔹 Maximum Element in Array
+![Max Output](output1.png)
+
+---
+
+### 🔹 Reverse Array
+![Reverse Output](output2.png)
+
+---
+
+### 🔹 Sum of Array Elements
+![Sum Output](output3.png)
+
+---
+
+### 🔹 2D Array and Jagged Array
+![2D Array Output](output4.png)
 
 ---
 
@@ -67,7 +79,7 @@ The program outputs are shown below:
 - `Reverse.java` — Reverse array elements
 - `Sum.java` — Sum of array elements
 - `TwoD_Arrays.java` — 2D and jagged arrays
-- `output`, `output1`, `output2`, `output3`, `output4` — Program outputs
+- `output.png`, `output1.png`, `output2.png`, `output3.png`, `output4.png` — Program outputs
 - `README.md` — Folder documentation
 
 ---
