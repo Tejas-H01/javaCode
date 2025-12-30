@@ -33,7 +33,7 @@ public class areaCalc{
             case 3:
                 System.out.println("Enter the Radius : ");
                 rad=sr.nextFloat();
-                System.out.println("Area of reqtangle : "+area(rad));
+                System.out.println("Area of Circle : "+area(rad));
                 break;
 
             default:
