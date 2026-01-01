@@ -1,4 +1,5 @@
-# Java Encapsulation – Bank Account Example Program
+
+ # Java Encapsulation – Bank Account Example Program
 
 This repository contains a Java program that demonstrates the concept of **encapsulation** in Object-Oriented Programming (OOP) using a bank account example.  
 It is intended for beginners who are learning access modifiers, getters, setters, and controlled data access in Java.
