@@ -4,9 +4,8 @@ package OOP_codes.Inheritance.Emp;
 public class Test   {
 
     public static void main (String[] args){
-
-        Manager man = new Manager();
-
+        Employee man = new Employee();
+        System.out.println(man.basicSalary);
         System.out.println(man.calculateSalary());
 
     }
