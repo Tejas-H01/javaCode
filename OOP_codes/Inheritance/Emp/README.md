@@ -34,7 +34,7 @@ The program also shows how data can be accessed and modified through inherited m
 
 The program output is shown below:
 
- 
+![Program Output](output.png)
 
 ---
 
