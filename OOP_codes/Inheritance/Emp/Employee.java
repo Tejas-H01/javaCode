@@ -1,11 +1,10 @@
 package OOP_codes.Inheritance.Emp;
 
 public class Employee {
-    String EmployeeName;
+    String employeeName;
     int basicSalary = 50000;
 
-
-    public int calculateSalary(){
+    public int calculateSalary() {
         return basicSalary;
     }
 }

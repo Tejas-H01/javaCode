@@ -1,13 +1,15 @@
 package OOP_codes.Inheritance.Emp;
 
+public class Test {
+    public static void main(String[] args) {
 
-public class Test   {
+        Manager m = new Manager();
 
-    public static void main (String[] args){
+        m.employeeName="Tejas";
+        System.out.println("Employee : "+m.employeeName);
 
-        Manager man = new Manager();
-
-        System.out.println(man.calculateSalary());
+        int returnedSalary = m.calculateSalary();   // method call
+        System.out.println("Total salary: " + returnedSalary);
 
     }
 }
