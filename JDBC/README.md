@@ -1,5 +1,5 @@
 ## Database
 
-The program output is shown below:
+The Database is shown below:
 
 ![Program Output](database.png)
