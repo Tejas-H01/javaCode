@@ -1,4 +1,3 @@
-```markdown
 # Arithmetic Exception Demonstration
 
 This program demonstrates how arithmetic operations behave in Java when an exception occurs.  
@@ -55,5 +54,3 @@ The program output is shown below:
 **Tejas Halvankar**  
 📧 Email: `tejashalvankar0@gmail.com`  
 🌐 GitHub: https://github.com/Tejas-H01
-```
-
