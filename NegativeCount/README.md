@@ -39,9 +39,10 @@ The program output is shown below:
 
 ![Program Output](output.png)
 
+
 ---
 
-## 📂 File Information
+## 📂 File Information.
 
 - negativecount.java — Counts the number of negative elements in an array
 - output.png — Screenshot of the program output
