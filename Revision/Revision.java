@@ -15,7 +15,22 @@ public class Revision {
         System.out.println("Positive numbers Count:"+pos_counter);
         System.out.println("Negative numbers Count:"+neg_counter);
 
-        //Reverse
+
+        //Reverse of a number
+
+        int Number=123456;
+        int DumNumber = Number;
+        int ReverseNumber=0;
+
+        while(DumNumber!=0){
+            int digit = DumNumber % 10;
+            ReverseNumber = ReverseNumber * 10 + digit;
+            DumNumber = DumNumber /10;
+        }
+        System.out.println("-----------------------------_-----------------------");
+        System.out.println("Number "+Number);
+        System.out.println("Reverse Number :"+ReverseNumber);
+
 
     }
 
