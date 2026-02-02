@@ -1,14 +1,15 @@
-# Positive and Negative Number Count in Array
+# Array Analysis and Number Reversal
 
-This program demonstrates how to count positive and negative numbers in an integer array.  
-It is designed for beginners revising arrays, loops, and conditional logic in Java.
+This program demonstrates basic array analysis and numeric manipulation using core Java constructs.  
+It is intended for beginners revising loops, conditionals, and arithmetic logic.
 
 ---
 
 ## 📌 Program Overview
 
-The program iterates through an integer array containing both positive and negative values.  
-It separately counts how many elements are positive (including zero) and how many are negative.
+The program performs two independent tasks within a single execution.  
+First, it counts positive and negative numbers in an integer array.  
+Second, it reverses a given integer using mathematical operations.
 
 ---
 
@@ -18,18 +19,22 @@ It separately counts how many elements are positive (including zero) and how man
 - `for` loop iteration
 - Conditional statements (`if-else`)
 - Integer counters
-- Basic decision-making logic
+- While loop
+- Modulus and division operators
+- Digit extraction and number manipulation
 
 ---
 
 ## 🧪 Code Functionality
 
 - An integer array is initialized with mixed positive and negative values.
-- Two counter variables are used to track positive and negative numbers.
-- A `for` loop traverses each element of the array.
-- If the element is greater than or equal to zero, the positive counter is incremented.
-- Otherwise, the negative counter is incremented.
-- After traversal, both counts are printed to the console.
+- Two counters track the count of positive (including zero) and negative numbers.
+- A `for` loop iterates through the array and updates counters based on conditions.
+- The counts of positive and negative numbers are printed to the console.
+- An integer number is initialized for reversal.
+- A `while` loop extracts digits using the modulus operator.
+- The reversed number is constructed using multiplication and addition.
+- The final reversed number is displayed as output.
 
 ---
 
@@ -43,7 +48,7 @@ The program output is shown below:
 
 ## 📂 File Information
 
-- Revision.java — Counts positive and negative numbers in an array
+- Revision.java — Counts positive and negative numbers and reverses a number
 - output.png — Screenshot of the program output
 - README.md — Project documentation
 
@@ -54,4 +59,3 @@ The program output is shown below:
 **Tejas Halvankar**  
 📧 Email: `tejashalvankar0@gmail.com`  
 🌐 GitHub: https://github.com/Tejas-H01
-
