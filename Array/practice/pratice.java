@@ -7,7 +7,7 @@ public class pratice {
 
         int n=0;
 
-        System.out.println("Enter the array length :");
+        System.out.print("Enter the array length :");
         n= sc.nextInt();
 
         int[]  arr = new int[n];
@@ -16,6 +16,9 @@ public class pratice {
             arr[i]= sc.nextInt();
         }
 
+        for (int i =0 ; i < arr.length;i++){
+            System.out.printf("%d-> %d \n",i,arr[i]);
+        }
 
 
     }
